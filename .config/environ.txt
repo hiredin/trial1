@@ -1,0 +1,2 @@
+LOCAL_USER_ID=1000
+LD_PRELOAD=/home/backend.ai/libbaihook.so
